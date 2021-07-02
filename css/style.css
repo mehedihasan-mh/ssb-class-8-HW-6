@@ -1,0 +1,183 @@
+body{
+	margin: 0;
+	padding: 0;}
+ 
+
+  header{
+     
+padding: 10px 0;  	
+
+
+  }
+  
+
+
+
+.container {
+	overflow: hidden;
+width: 90%;
+border: 1px solid;
+margin: 0 auto;
+}
+.logo{
+float: left;
+width: 10%;
+border: 1px solid red;
+}
+.logo a{
+
+}
+.logo a img{
+width:100%;
+
+}
+.menu{
+float: right;
+width:40%;
+border: 1px  solid red:;
+}
+.menu ul{
+
+	list-style: none;
+
+
+	float: right;
+}
+.menu ul li{
+
+
+	float:left;
+
+}
+.menu ul li a{
+
+	text-decoration: none;
+	margin: 0 15px;
+	display:inline-block;
+
+	font-size: 18px;
+	color: #40516A;
+	text-transform: capitalize;
+}
+.menue ul li:last-child a{
+
+	margin-right: 0;
+	
+}
+
+.banner{
+  border: 1PX solid;
+  padding: 50px  0;
+
+}
+.container2{
+width: 70%;
+
+margin: 0 auto;
+
+}
+.b_content{ 
+    text-align: center; }
+.b_content h1{
+  font-size:60px; 
+  margin:0   90px;
+  color:#000000;
+  line-height: 70px;
+}
+.b_content h1 span{
+	 color: #008AFF;
+}
+.b_content p{
+font-size: 20px;
+margin: 15px 35px 30PX;
+color:#000000; 
+line-height:25px;
+
+
+
+}
+.b-img{
+       width: 60%;
+       
+       margin:0 auto;
+
+}
+.b_img img{
+width:100%;
+
+}
+.success{ 
+
+padding: 50px 0;
+ }
+.s_content{
+  overflow: hidden;
+
+}
+.s_left{
+	float: left;
+    width:40%; 
+   
+    text-align: right;
+    padding: 30px 20px 10px 30px;
+}
+.s_left h2{
+        font-size: 50px;
+        margin:0;
+        color:#F15767; 
+
+}
+.s_left p{ 
+       font-size:19px; 
+       line-height: 25px;
+       color:#0F2656;
+       margin:10px 0 20px;
+
+ }
+.s_right{
+	float: right;
+      width: 50%;
+     
+      padding:20px 20px 10px 10px; 
+}
+.s_right h1{
+
+	  font-size: 60px;
+	  line-height: 65px;
+    color:#0F2656;
+    margin: 0;
+}
+.creativity{
+    border: 1px solid;
+    padding: 50px 0;
+  
+}
+.c_content{
+	overflow: hidden;
+  
+}
+
+.c_single{ float: left;
+	width: 29%;
+	
+	padding:20px 20px 40px;
+	background-color:#FDEBED;
+
+
+}
+.c_img{
+
+
+}
+.c_img img{
+	width:100%;
+
+
+}
+.c_single h2{
+
+
+}
+.c_single p{
+
+}
